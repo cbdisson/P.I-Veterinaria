@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+.env
+
+# Node/Vite/React
+node_modules/
+dist/
+build/
+
+# Outros
+.DS_Store
+.vscode/
